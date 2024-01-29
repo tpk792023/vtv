@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:1662297055
+#EXTINF:6,
+/tvcache/channels/vstv452/hd/62/29/70/hd-1662297055.ts?c=vstv452&q=hd&type=tvlive-seg&pkg=pkg32.hni&zn=netott&userId=13924550&deviceId=34311497&location=FPT&p=0&pnode=172.16.56.77&rkey=13924550MHD3mVzE
+#EXTINF:6,
+/tvcache/channels/vstv452/hd/62/29/70/hd-1662297056.ts?c=vstv452&q=hd&type=tvlive-seg&pkg=pkg32.hni&zn=netott&userId=13924550&deviceId=34311497&location=FPT&p=0&pnode=172.16.56.77&rkey=13924550MHD3mVzE
+#EXTINF:6,
+/tvcache/channels/vstv452/hd/62/29/70/hd-1662297057.ts?c=vstv452&q=hd&type=tvlive-seg&pkg=pkg32.hni&zn=netott&userId=13924550&deviceId=34311497&location=FPT&p=0&pnode=172.16.56.77&rkey=13924550MHD3mVzE
+#EXTINF:6,
+/tvcache/channels/vstv452/hd/62/29/70/hd-1662297058.ts?c=vstv452&q=hd&type=tvlive-seg&pkg=pkg32.hni&zn=netott&userId=13924550&deviceId=34311497&location=FPT&p=0&pnode=172.16.56.77&rkey=13924550MHD3mVzE
+#EXTINF:6,
+/tvcache/channels/vstv452/hd/62/29/70/hd-1662297059.ts?c=vstv452&q=hd&type=tvlive-seg&pkg=pkg32.hni&zn=netott&userId=13924550&deviceId=34311497&location=FPT&p=0&pnode=172.16.56.77&rkey=13924550MHD3mVzE
